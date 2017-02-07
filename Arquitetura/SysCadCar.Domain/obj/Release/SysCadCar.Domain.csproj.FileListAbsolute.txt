@@ -1,0 +1,7 @@
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Release\SysCadCar.Domain.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Release\SysCadCar.Domain.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Release\Newtonsoft.Json.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Release\Newtonsoft.Json.xml
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\obj\Release\SysCadCar.Domain.csprojResolveAssemblyReference.cache
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\obj\Release\SysCadCar.Domain.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\obj\Release\SysCadCar.Domain.pdb

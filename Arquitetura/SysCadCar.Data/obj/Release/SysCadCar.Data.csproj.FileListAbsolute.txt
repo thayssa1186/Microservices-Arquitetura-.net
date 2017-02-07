@@ -1,0 +1,13 @@
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\DocumentDB.Spatial.Sql.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\SysCadCar.Data.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\SysCadCar.Data.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\Microsoft.Azure.Documents.Client.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\Newtonsoft.Json.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\SysCadCar.Domain.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\SysCadCar.Domain.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\Microsoft.Azure.Documents.Client.xml
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\bin\Release\Newtonsoft.Json.xml
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\obj\Release\SysCadCar.Data.csprojResolveAssemblyReference.cache
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\obj\Release\SysCadCar.Data.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Data\obj\Release\SysCadCar.Data.pdb

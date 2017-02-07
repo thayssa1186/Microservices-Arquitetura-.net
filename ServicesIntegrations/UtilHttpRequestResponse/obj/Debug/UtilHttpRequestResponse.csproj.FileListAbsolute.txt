@@ -1,0 +1,11 @@
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\UtilHttpRequestResponse.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\UtilHttpRequestResponse.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\RestSharp.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\SysCadCar.Domain.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\RestSharp.xml
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\SysCadCar.Domain.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\obj\Debug\UtilHttpRequestResponse.csprojResolveAssemblyReference.cache
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\obj\Debug\UtilHttpRequestResponse.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\ServicesIntegrations\UtilHttpRequestResponse\obj\Debug\UtilHttpRequestResponse.pdb

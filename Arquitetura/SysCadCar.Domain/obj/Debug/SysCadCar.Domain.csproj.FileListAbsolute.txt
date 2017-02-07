@@ -1,0 +1,12 @@
+c:\users\thaissa\documents\visual studio 2015\Projects\SysCadCar_Arq\Arquitetura\SysCadCar.Domain\bin\Debug\SysCadCar.Domain.dll
+c:\users\thaissa\documents\visual studio 2015\Projects\SysCadCar_Arq\Arquitetura\SysCadCar.Domain\bin\Debug\SysCadCar.Domain.pdb
+c:\users\thaissa\documents\visual studio 2015\Projects\SysCadCar_Arq\Arquitetura\SysCadCar.Domain\bin\Debug\Newtonsoft.Json.dll
+c:\users\thaissa\documents\visual studio 2015\Projects\SysCadCar_Arq\Arquitetura\SysCadCar.Domain\bin\Debug\Newtonsoft.Json.xml
+c:\users\thaissa\documents\visual studio 2015\Projects\SysCadCar_Arq\Arquitetura\SysCadCar.Domain\obj\Debug\SysCadCar.Domain.dll
+c:\users\thaissa\documents\visual studio 2015\Projects\SysCadCar_Arq\Arquitetura\SysCadCar.Domain\obj\Debug\SysCadCar.Domain.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Debug\SysCadCar.Domain.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Debug\SysCadCar.Domain.pdb
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\obj\Debug\SysCadCar.Domain.dll
+C:\Users\thaissa\Documents\Visual Studio 2015\Projects\SysCadCar\Arquitetura\SysCadCar.Domain\obj\Debug\SysCadCar.Domain.pdb

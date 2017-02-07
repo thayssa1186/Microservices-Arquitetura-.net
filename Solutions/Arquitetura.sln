@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{5EAE8F32-42D7-438F-9211-6042D491294A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{596EDCF2-830E-4D4D-BC74-495B59D16D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysCadCar.Data", "..\Arquitetura\SysCadCar.Data\SysCadCar.Data.csproj", "{D2592AD9-F03C-40C4-B28F-04F01C322571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysCadCar.Domain", "..\Arquitetura\SysCadCar.Domain\SysCadCar.Domain.csproj", "{6F5C926F-4CB6-4913-85D3-6B886315780F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2592AD9-F03C-40C4-B28F-04F01C322571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2592AD9-F03C-40C4-B28F-04F01C322571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2592AD9-F03C-40C4-B28F-04F01C322571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2592AD9-F03C-40C4-B28F-04F01C322571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5C926F-4CB6-4913-85D3-6B886315780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5C926F-4CB6-4913-85D3-6B886315780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5C926F-4CB6-4913-85D3-6B886315780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5C926F-4CB6-4913-85D3-6B886315780F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2592AD9-F03C-40C4-B28F-04F01C322571} = {5EAE8F32-42D7-438F-9211-6042D491294A}
+		{6F5C926F-4CB6-4913-85D3-6B886315780F} = {596EDCF2-830E-4D4D-BC74-495B59D16D11}
+	EndGlobalSection
+EndGlobal
