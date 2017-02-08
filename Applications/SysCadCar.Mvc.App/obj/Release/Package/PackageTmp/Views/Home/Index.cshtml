@@ -1,0 +1,46 @@
+﻿@model IEnumerable<SysCadCar.Mvc.App.ServiceCarroWcf.Carro>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Veiculos cadastrados</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Bloqueio</th>
+                <th>Placa</th>
+                <th>Renavan</th>
+                <th>Ações</th>                
+            </tr>
+        </thead>
+        <tbody>
+            @{ 
+                foreach (var item in Model)
+                {
+                    <tr> 
+                        @{ if (item.Bloqueio == SysCadCar.Mvc.App.ServiceCarroWcf.Status.Bloqueado)
+                            {
+                                <td><i class="fa fa-lock" aria-hidden="true"></i></td>
+                            }
+                            else
+                            {
+                                <td><i class="fa fa-unlock" aria-hidden="true"></i></td>
+                            }
+                        }
+                        <td>@item.Placa</td>
+                        <td>@item.Renavan</td>
+                        <td>@Html.ActionLink("Visualizar", "Details", new { Placa = item.Placa }) </td>
+                       
+                    </tr>
+                    }
+                }
+        </tbody>
+    </table>
+</div>

@@ -26,9 +26,18 @@ namespace SysCadCar.Mvc.App.Controllers
             Service1Client service = new Service1Client();
             var car = service.viewsCarro(Placa);
             var path = car.UrlFotos;
-            if (Directory.Exists(Server.MapPath(path)))
+            try
             {
-                ViewBag.Fotos = ProcessDirectory(path);
+
+                if (Directory.Exists(Server.MapPath(path)))
+                {
+                    ViewBag.Fotos = ProcessDirectory(path);
+                }
+            }
+            catch(Exception ex)
+            {
+                ViewBag.Fotos = new List<string>();
+                return View(car);
             }
 
             return View(car);
@@ -42,8 +51,7 @@ namespace SysCadCar.Mvc.App.Controllers
         }
 
         // POST: Home/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
+        [HttpPost]       
         public ActionResult Create(ViewsModelCarro model)
         {
             try
@@ -51,7 +59,7 @@ namespace SysCadCar.Mvc.App.Controllers
                 
                 var caminho = string.Format("~/FotosVistoria/{0}" ,model.Placa);
 
-                if (Directory.Exists(Server.MapPath(caminho)))
+                if (!Directory.Exists(Server.MapPath(caminho)))
                 {
                     System.IO.Directory.CreateDirectory(Server.MapPath(caminho));
                 }
@@ -117,7 +125,7 @@ namespace SysCadCar.Mvc.App.Controllers
 
                
             }
-            catch
+            catch(Exception ex)
             {
                 return View();
             }
